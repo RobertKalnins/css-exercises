@@ -1,0 +1,16 @@
+/* style.css */
+
+.fonts {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.strong {
+    color: white;
+    background-color: black;
+    font-weight: 700;
+}
+
+.warning {
+    background-color: yellow;
+}
